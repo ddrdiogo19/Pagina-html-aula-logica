@@ -1,0 +1,67 @@
+# Pagina-html-aula-logica
+
+    header#cabecalho {
+    border-bottom: 1px rgb(243, 238, 238) solid;
+
+     }
+
+    header#cabecalho a {
+    color: cornsilk;
+    text-decoration: none;
+
+     }
+
+    body {
+    background-color: rgb(10, 109, 96);
+    text-align:;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     }
+
+    table#tableinfor {
+    border: 1px solid #f1eeee;
+    border-spacing: 0px;
+  
+     }
+
+    table#tableinfor td {
+    border: 1px solid #f1eeee;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    
+     }
+
+    nav#menu {
+        display: block;
+     }
+
+    nav#menu ol {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: -20px;
+    left: 300px;
+     }
+
+    nav#menu li {
+    display: inline-block;
+    background-color: rgb(18, 132, 136);
+    padding: 10px; 
+    margin: 4px;
+    transition: background-color: 1s;
+     }
+
+    nav#menu li:hover {
+     background-color: rgb(4, 43, 43);
+     }
+
+    nav#menu a {
+        color: azure;
+        text-decoration: none;
+     }
+
+    footer a {
+        color: cornsilk;
+        text-decoration: none;
+    }
